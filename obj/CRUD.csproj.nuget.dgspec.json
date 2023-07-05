@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thauan Santos\\Documents\\projetos\\Estudo\\ProdutoSushi\\CRUD\\CRUD.csproj": {}
+    "C:\\Users\\Thauan Santos\\Documents\\Projetos\\Estudos\\CRUD\\CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thauan Santos\\Documents\\projetos\\Estudo\\ProdutoSushi\\CRUD\\CRUD.csproj": {
+    "C:\\Users\\Thauan Santos\\Documents\\Projetos\\Estudos\\CRUD\\CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thauan Santos\\Documents\\projetos\\Estudo\\ProdutoSushi\\CRUD\\CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\Thauan Santos\\Documents\\Projetos\\Estudos\\CRUD\\CRUD.csproj",
         "projectName": "CRUD",
-        "projectPath": "C:\\Users\\Thauan Santos\\Documents\\projetos\\Estudo\\ProdutoSushi\\CRUD\\CRUD.csproj",
+        "projectPath": "C:\\Users\\Thauan Santos\\Documents\\Projetos\\Estudos\\CRUD\\CRUD.csproj",
         "packagesPath": "C:\\Users\\Thauan Santos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thauan Santos\\Documents\\projetos\\Estudo\\ProdutoSushi\\CRUD\\obj\\",
+        "outputPath": "C:\\Users\\Thauan Santos\\Documents\\Projetos\\Estudos\\CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thauan Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }
